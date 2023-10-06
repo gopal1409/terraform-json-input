@@ -1,4 +1,4 @@
-variable "business_devision" {
+/*variable "business_devision" {
   description = "Business devision name"
   type        = string #list of string map numeric
   default     = "sap"
@@ -20,4 +20,4 @@ variable "resource_group_name" {
 variable "resource_group_location" {
   type    = string
   default = "eastus2"
-}
+}*/

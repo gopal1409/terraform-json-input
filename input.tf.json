@@ -1,0 +1,20 @@
+{
+    "variable": {
+      "business_devision": {
+        "default": "sap"
+      },
+      "environment": {
+        "default": "project"
+      },
+      "resource_group_name": {
+        "default": "rg-default"
+      },
+        "resource_group_location": {
+          "default": "eastus"
+        },
+        "vnet_name": {
+            "default": "vnet"
+          }
+    }
+    
+}

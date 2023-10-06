@@ -1,8 +1,8 @@
-variable "vnet_name" {
+/*variable "vnet_name" {
   description = "virtual network name"
   type        = string
   default     = "vnet-default"
-}
+}*/
 
 variable "vnet_address_space" {
   type    = list(string)
